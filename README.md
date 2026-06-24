@@ -67,16 +67,13 @@
 
 ### 📊 GitHub 数据
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical)
 
 ---
 
 ### 📫 联系我
 
-- GitHub：[@你的用户名](https://github.com/你的用户名)
-- Email：`你的邮箱@example.com`
-- 微信 / 其他平台（可选）
+- Email：`environmentdarkless@gmail.com`
+
 
 ---
 
