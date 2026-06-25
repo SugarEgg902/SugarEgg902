@@ -1,19 +1,16 @@
 <div align="center">
 
-  <!-- 打字机动画效果 -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=你好，我是[你的名字];AI%20Engineer;%E4%B8%93%E6%B3%A8%E4%BA%8E%E6%99%BA%E8%83%BD%E4%BD%93%E5%BC%80%E5%8F%91;Building%20Powerful%20AI%20Agents" alt="Typing SVG" />
+  <!-- 打字机动画 - 颜色调暗 -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=你好，我是SugarEgg902;AI%20Engineer;专注于多智能体系统开发;Building%20Reliable%20AI%20Agents" alt="Typing SVG" />
 
-  <h3>🚀 AI Engineer | 多智能体系统开发者</h3>
+  <h1>🚀 AI Engineer | 多智能体开发者</h1>
 
-  <p>
-    <strong>专注于构建高效、可靠、可落地的 AI Agent 系统</strong>
-  </p>
+  <p><strong>专注于构建高效、可落地的大型 AI Agent 系统</strong></p>
 
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Multi-Agent%20%7C%20RAG-blue?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Multi-Agent%20%7C%20RAG-2196F3?style=for-the-badge" alt="Focus" />
 
 </div>
-
 ---
 
 ### 🚀 关于我
