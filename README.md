@@ -1,17 +1,17 @@
-<!-- README.md -->
-
 <div align="center">
-  <h1>👋 你好，我是 SugarEgg</h1>
-  <h3>AI Engineer | Agent 智能体开发者</h3>
+
+  <!-- 打字机动画效果 -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=你好，我是[你的名字];AI%20Engineer;%E4%B8%93%E6%B3%A8%E4%BA%8E%E6%99%BA%E8%83%BD%E4%BD%93%E5%BC%80%E5%8F%91;Building%20Powerful%20AI%20Agents" alt="Typing SVG" />
+
+  <h3>🚀 AI Engineer | 多智能体系统开发者</h3>
 
   <p>
-    <strong>专注于构建高效、可靠的 AI Agent 系统</strong><br>
-    致力于将大模型能力与实际业务深度结合，开发多智能体协作系统与自动化解决方案。
+    <strong>专注于构建高效、可靠、可落地的 AI Agent 系统</strong>
   </p>
 
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Agent-blue" alt="Focus" />
-  <img src="https://img.shields.io/badge/Language-TypeScript%20%7C%20Python%20%7C%20Java-orange" alt="Languages" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Multi-Agent%20%7C%20RAG-blue?style=for-the-badge" alt="Focus" />
+
 </div>
 
 ---
