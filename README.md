@@ -66,7 +66,8 @@
 ---
 
 ### 📊 GitHub 数据
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SugarEgg902&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SugarEgg902&show_icons=true&theme=radical)  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SugarEgg902&layout=compact&theme=radical)
 
 ---
@@ -74,8 +75,6 @@
 ### 📫 联系我
 
 - Email：`environmentdarkless@gmail.com`
-
-
 ---
 
 <div align="center">
