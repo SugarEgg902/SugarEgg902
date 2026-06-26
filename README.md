@@ -57,9 +57,9 @@
 ---
 
 ### 📂 代表项目
-
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SugarEgg902&repo=ImageAmazonAgent&theme=dark)](https://github.com/SugarEgg902/ImageAmazonAgent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SugarEgg902&repo=Multiple-E-commerce-Platform-Data-Analysis&theme=dark)](https://github.com/SugarEgg902/Multiple-E-commerce-Platform-Data-Analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SugarEgg902&repo=amazon_data_analysis_agent&theme=dark)](https://github.com/SugarEgg902/amazon_data_analysis_agent )
 ---
 
 ### 📊 GitHub 数据
