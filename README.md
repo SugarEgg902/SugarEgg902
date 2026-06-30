@@ -64,7 +64,7 @@
 ---
 
 ### 📊 GitHub 数据
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SugarEgg902&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SugarEgg902&show_icons=true&theme=radical&cache=0)
 
 ---
 
