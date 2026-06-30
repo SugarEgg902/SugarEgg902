@@ -69,8 +69,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SugarEgg902&theme=dark&hide_border=true&include_all_commits=true" />
-  <br/>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="蛇形贡献图" />
 </div>
 
