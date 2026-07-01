@@ -8,7 +8,6 @@
   <p><strong>专注于构建高效、可落地的大型 AI Agent 系统</strong></p>
 
   <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Multi-Agent%20%7C%20RAG-2196F3?style=for-the-badge" alt="Focus" />
 
 </div>
 ---
