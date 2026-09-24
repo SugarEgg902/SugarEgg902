@@ -34,6 +34,8 @@
 - Deep Agent 架构
 - RAG（Retrieval-Augmented Generation）
 - BGE-M3 嵌入模型
+- JVE决策模型
+- UNLIMITED_OCR模型
 
 **工具与平台**
 - vLLM（大模型推理加速）
